@@ -1,0 +1,3 @@
+timestamp,question,topic,confidence,answer_mode
+2026-03-31T15:33:15.090790,"Why do we need oxygen to survive?
+",Biology,0.32463908195495605,retrieval_fallback

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bio_1",
+    "topic": "Biology",
+    "title": "Photosynthesis Basics",
+    "content": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce glucose and oxygen. Chlorophyll absorbs light energy, mainly from red and blue wavelengths."
+  },
+  {
+    "id": "bio_2",
+    "topic": "Biology",
+    "title": "Cell Structure",
+    "content": "The nucleus controls cell activities and stores genetic material. Mitochondria release energy through cellular respiration. Ribosomes help synthesize proteins."
+  },
+  {
+    "id": "chem_1",
+    "topic": "Chemistry",
+    "title": "Acids and Bases",
+    "content": "Acids release hydrogen ions in solution, while bases release hydroxide ions or accept hydrogen ions. The pH scale measures how acidic or basic a substance is."
+  },
+  {
+    "id": "chem_2",
+    "topic": "Chemistry",
+    "title": "Chemical Bonding",
+    "content": "Ionic bonds form through transfer of electrons, usually between metals and nonmetals. Covalent bonds form when atoms share electron pairs."
+  },
+  {
+    "id": "phy_1",
+    "topic": "Physics",
+    "title": "Newton's Laws",
+    "content": "Newton's first law states that an object remains at rest or in uniform motion unless acted upon by an external force. The second law relates force, mass, and acceleration through F = ma."
+  },
+  {
+    "id": "phy_2",
+    "topic": "Physics",
+    "title": "Work and Energy",
+    "content": "Work is done when a force causes displacement. Kinetic energy is the energy of motion, and potential energy is stored energy due to position or configuration."
+  },
+  {
+    "id": "math_1",
+    "topic": "Mathematics",
+    "title": "Quadratic Equations",
+    "content": "A quadratic equation has the standard form ax^2 + bx + c = 0. Solutions can be found using factoring, completing the square, or the quadratic formula."
+  },
+  {
+    "id": "math_2",
+    "topic": "Mathematics",
+    "title": "Probability Fundamentals",
+    "content": "Probability measures the likelihood of an event and ranges from 0 to 1. For equally likely outcomes, probability equals favorable outcomes divided by total outcomes."
+  },
+  {
+    "id": "cs_1",
+    "topic": "Computer Science",
+    "title": "Supervised Learning",
+    "content": "Supervised learning uses labeled data to train models for prediction tasks such as classification and regression. The model learns a mapping from inputs to outputs."
+  },
+  {
+    "id": "cs_2",
+    "topic": "Computer Science",
+    "title": "Vector Databases",
+    "content": "Vector databases store embedding vectors and support similarity search. In retrieval-augmented generation systems, they help find the most relevant context for a user query."
+  }
+]
